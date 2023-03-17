@@ -11,6 +11,6 @@ Start with "ls" at zero. Find the difference in terrestrial dates when solar lon
   
 Saved data:  
 [Part 1 - Scrape Titles and Preview Text from Mars News](mars_news.json)  
-[Part 2 - Scrape and Analyze Mars Weather Data](scrapped_mars_data.csv)  
+[Part 2 - Scrape and Analyze Mars Weather Data](scraped_mars_data.csv)  
   
   
